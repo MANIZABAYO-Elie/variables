@@ -10,3 +10,4 @@ let age = 21
 console.log("My name is",firstName,lastName , "I am" ,age ,"years old");
 let name = "Eliano"
 console.log(name);
+console.log(name + age);
