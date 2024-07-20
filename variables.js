@@ -11,3 +11,5 @@ console.log("My name is",firstName,lastName , "I am" ,age ,"years old");
 let name = "Eliano"
 console.log(name);
 console.log(name + age);
+let str = "the moon landing was fake"
+console.log(str);
